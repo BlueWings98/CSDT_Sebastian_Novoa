@@ -36,8 +36,6 @@ namespace Trivia
                     notAWinner = aGame.wasCorrectlyAnswered();
                 }
 
-
-
             } while (notAWinner);
 
         }
