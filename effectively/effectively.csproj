@@ -58,7 +58,7 @@
     <Folder Include="ExtractInterface\" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="CodeSmells.md" />
+    <None Include="CSDT-2024.md" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
